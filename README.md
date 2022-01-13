@@ -1,2 +1,2 @@
-# atm
-An exercise for MIT xPro
+# ATM
+An exercise for MIT xPro (ReactJS block).
